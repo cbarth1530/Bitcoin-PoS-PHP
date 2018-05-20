@@ -1,6 +1,6 @@
 <?php
 // business name
-$seller = 'Cafe Aunja';
+$seller = 'Pizza Beach';
 
 // full website url (with slash on end)
 $site_url = 'http://URL';
@@ -55,7 +55,7 @@ define('SEC_STR', $sec_str);
 define('SEP_STR', $t_separator);
 
 // turn on/off error reporting
-ini_set('display_errors', 1); 
+ini_set('display_errors', 1);
 error_reporting(0);
 
 $app_version = '0.6.2';
